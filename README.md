@@ -1,7 +1,7 @@
 # info-code
 A simple model to describe code information. (Things that matter), where typescript is not required...  
-> JS: javascript
-> TS: typescript
+> JS: javascript  
+> TS: typescript  
 
 Typescript is a superset of javascript, useful in specific use-cases, dev team setup... but in most cases the usage is overrated and not valid.  
 The assumtion is typescript prevents bugs, clarifies intent, safety etc... which in fact is based on developer itself, dev-structure implemented,
