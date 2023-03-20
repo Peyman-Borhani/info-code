@@ -1,13 +1,32 @@
-# `info-code`
-Aiming for a minimal simple model to describe code information. (Things that matter), where typescript is not required...  
+# `info-code`   
+
+Investigate/Evaluate Typescript Pros/Cons/usability factors, to realize a minimal alternative feazability.
 > JS: javascript  
 > TS: typescript  
+> PL: programming Language  
+> OOP: object oriented programming  
+<br>
+   
+## `Purpose`  
 
-Typescript is a superset of javascript, which mainly used to provide static typing, to prevent mistakes of dynamic typing. afterwards they add more tooling and principles such as OOP concepts, etc... which might be useful in specific use-cases, such as:  
+- why TS is so popular?
+- is it that valid? (usability/use-case)
+- when TS is not required?
+- a minimal JS approach, a TS development pattern alternative.
+> above statement, is it possible? (solve the TS usage/intentions)
+- model to describe code information. (Things that matter), 
+-   
 
-- static typing, constraints, custom types, OOP principles such as interfaces, encapsulation,...
-- preventing ambiguity, mistakes or intentional altered code by a bad/noob/careless developer.
-- streamlining dev-team with rules and constrained setup preventing the to mistake or get out of the line
+## Todo Update (main reason LS/LC/LSP in IDEs, also popularity hype)
+
+## `Type script`
+Typescript is a superset of javascript, which mainly used to provide static typing, force structural constraints, 
+prevent mistakes or OOP maybe whatever other PL devs were used to.  
+of dynamic typing. afterwards they add more tooling and principles such as OOP concepts, etc... which might be useful in specific use-cases, such as:  
+
+- static typing, force constraints, custom types, some OOP principles...
+- preventing ambiguity, mistakes or intentional code manipultion by a bad/noob/careless developer.
+- dev-team rules/type check/regulated setup, preventing mistake or careless/intentional manipulation.  
 - non-JS traditional non web programmers mindset,... but going full TS is overrated hype and not valid.  
 
 The general assumption is TS prevents bugs, clarifies intent, safety etc... which in fact depends on:  
