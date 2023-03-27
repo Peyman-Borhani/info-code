@@ -12,9 +12,16 @@ Investigate/Evaluate Typescript Pros/Cons/usability factors, to realize a minima
 - why TS is so popular?
 - is it that valid? (usability/use-case)
 - when TS is not required?
-- a minimal JS approach, a TS development pattern alternative.
-> above statement, is it possible? (solve the TS usage/intentions)
-- model to describe code information. (Things that matter), 
+- which TS features can be done by using latest JS?
+- can latest JS plus specific libs/framework/ide/tools/AI, provide automated TS intentions/usablity?  
+- any tools where TS features/functions are automated or done in background? (including TS itself)   
+- #### `conclusion`:  
+  - find answers to above questions by investigation.  
+  - `any alternative options available/possible?`
+    - 1. TS intentions/usability automated in background without using the lang.
+    - 2. minimal developer pattern alternatives.
+    - 3. Best minimal dev pattern for TS itself. how and where to use and avoid.
+  - `new pattern to describe code information/types...`(only general/important/useful things)  
 -   
 
 ## Todo Update (main reason LS/LC/LSP in IDEs, also popularity hype)
